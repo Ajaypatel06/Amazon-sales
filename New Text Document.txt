@@ -1,0 +1,23 @@
+📊 Amazon Sales Data Analysis Project
+🔍 Conducted advanced analysis on a real-world Amazon sales dataset to uncover critical insights that support better sales management. Utilized Python, Tableau, and Power BI to identify month-wise, year-wise, and year-month-wise sales trends, and performed in-depth analysis of key metrics. The project resulted in actionable insights to optimize sales strategies, identify seasonal trends, and boost profitability. 🚀 
+
+Objectives:
+Perform ETL (Extract, Transform, Load) on the Amazon sales dataset.
+Identify sales trends month-wise, year-wise, and yearly_month-wise.
+Analyze key metrics and explore relationships between attributes like region, item type, sales channel, order priority, and more.
+Provide data-driven insights to support decision-making for optimizing sales strategies.
+
+
+Key Insights and Findings:
+Sales Trends: Peak sales were identified in certain months like November and December, indicating strong performance during holiday seasons.
+Profitability Analysis: Items like Office Supplies and Baby Food showed consistently high profit margins, especially in regions like Europe and Australia.
+Order Priority Impact: High-priority orders (Order Priority: H) correlated with higher profitability due to increased demand, especially through the Online channel.
+Regional Sales Distribution: Sub-Saharan Africa and Asia showed a strong demand for Household and Personal Care items, while Europe led in Office Supplies sales.
+
+
+Tools & Techniques:
+Python: Pandas for data manipulation, Matplotlib/Seaborn for exploratory data analysis.
+SQL: Advanced queries to aggregate data by different dimensions like region, item type, and year.
+Tableau/Power BI: For interactive and insightful dashboard creation to visualize key metrics and trends.
+
+#DataScience #Python #Tableau #PowerBI #Ecommerce #DataAnalysis #ETL
